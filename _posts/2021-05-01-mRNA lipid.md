@@ -43,7 +43,11 @@ Lipid ingredients data were taken from FDA sheets.
 
 Further read
 [wiki](https://en.wikipedia.org/wiki/Moderna_COVID-19_vaccine)
+
 [mrna_vaccine](https://www.umassmed.edu/rti/therapeutics/Coronavirus/covid-19-mrna-vaccines/)
+
 [mrna-lipids](https://blogs.sciencemag.org/pipeline/archives/2021/01/11/rna-vaccines-and-their-lipids)
+
 [mrna-lipids](https://cen.acs.org/pharmaceuticals/drug-delivery/Without-lipid-shells-mRNA-vaccines/99/i8)
+
 [mrna-vaccine-seq](https://pubs.acs.org/doi/10.1021/acscentsci.1c00197)
