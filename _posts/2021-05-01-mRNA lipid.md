@@ -13,7 +13,7 @@ The mRNA vaccine contains 2 core components, the Lipid Nanoparticle (LNP) wraps 
 
 The development of lipid that delivery the nucleic acids was first applied in siRNA therapeutics from Alynlam. But the formulation of the lipid components varies to mRNA vectors because the length of the RNA ingredients are markedly longer (~4.18kb for covid-19 vaccine) compared to siRNA. The key are ionizable lipids, those are positively charged at acidic pH but neutral in the blood. People are avoiding permanenntly positively charged lipids due to their toxicity.
 
-Pfizer Biontech BNT162b2
+# Pfizer Biontech BNT162b2
 [ALC-0159](https://en.wikipedia.org/wiki/ALC-0159)
 [ALC-0315](https://en.wikipedia.org/wiki/ALC-0315)
 [DSPC](https://pubchem.ncbi.nlm.nih.gov/compound/1_2-Distearoyl-sn-glycero-3-phosphocholine)
@@ -21,7 +21,7 @@ Pfizer Biontech BNT162b2
 [Cholesterol](https://en.wikipedia.org/wiki/Cholesterol)
 
 
-Moderna mrna-1273
+# Moderna mrna-1273
 [SM-102](https://en.wikipedia.org/wiki/SM-102)
 [Cholesterol](https://en.wikipedia.org/wiki/Cholesterol)
 [DSPC](https://pubchem.ncbi.nlm.nih.gov/compound/1_2-Distearoyl-sn-glycero-3-phosphocholine)
@@ -41,7 +41,8 @@ Lipid ingredients data were taken from FDA sheets.
 | ALC-0315 |  | + |from Acuitas |
 | :---: | :---: | :---: | :---: |
 
-Further read
+# Further read
+
 [wiki](https://en.wikipedia.org/wiki/Moderna_COVID-19_vaccine)
 
 [mrna_vaccine](https://www.umassmed.edu/rti/therapeutics/Coronavirus/covid-19-mrna-vaccines/)
