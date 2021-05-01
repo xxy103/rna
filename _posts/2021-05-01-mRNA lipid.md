@@ -1,4 +1,3 @@
-```
 ---
 layout:     post
 title:      mRNA vaccine lipids
@@ -10,7 +9,7 @@ tags: Tech
 
 # lipids in mRNA vaccine
 
-The mRNA vaccine contains 2 core components, the Lipid Nanoparticle (LNP) wraps the core mRNA (~4.18kb). Upon  intramuscular injection, the mRNAs were taken by the immune cells and translate into covid-19 (NC_045512.2) spike protein. Both Pfizer and Moderna encodes 100% identical full length (NC_045512.2) spike protein, but the UTR regions, codon usages varies significantly. 
+The mRNA vaccine contains 2 core components, the Lipid Nanoparticle (LNP) wraps the core mRNA (~4.18kb). Upon  intramuscular injection, the mRNAs were taken by the immune cells and translate into covid-19 (NC_045512.2) spike protein. Both Pfizer and Moderna encodes 100% identical full length (NC_045512.2) spike protein, but the UTR regions, codon usages varies significantly.
 
 The development of lipid that delivery the nucleic acids was first applied in siRNA therapeutics from Alynlam. But the formulation of the lipid components varies to mRNA vectors because the length of the RNA ingredients are markedly longer (~4.18kb for covid-19 vaccine) compared to siRNA. The key are ionizable lipids, those are positively charged at acidic pH but neutral in the blood. People are avoiding permanenntly positively charged lipids due to their toxicity.
 
@@ -49,5 +48,3 @@ Lipid ingredients data were taken from FDA sheets.
 (https://blogs.sciencemag.org/pipeline/archives/2021/01/11/rna-vaccines-and-their-lipids)
 (https://cen.acs.org/pharmaceuticals/drug-delivery/Without-lipid-shells-mRNA-vaccines/99/i8)
 (https://pubs.acs.org/doi/10.1021/acscentsci.1c00197)
-
-```
