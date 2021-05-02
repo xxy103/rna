@@ -19,6 +19,6 @@ The alnylam **patisiran** that treat polyneuropathy caused by hATTR amyloidosis 
 
 
 # Further read
-[patisiran lipid] (https://doi.org/DOI:10.1002/jcph.1553)
+[patisiran lipid](https://doi.org/DOI:10.1002/jcph.1553)
 
-[lipid review] (http://dx.doi.org/10.1016/j.ymthe.2017.03.013)
+[lipid review](http://dx.doi.org/10.1016/j.ymthe.2017.03.013)
