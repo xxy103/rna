@@ -52,3 +52,5 @@ Lipid ingredients data were taken from FDA sheets.
 [mrna-lipids](https://cen.acs.org/pharmaceuticals/drug-delivery/Without-lipid-shells-mRNA-vaccines/99/i8)
 
 [mrna-vaccine-seq](https://pubs.acs.org/doi/10.1021/acscentsci.1c00197)
+
+[MC3](https://acuitastx.com/bios/)
