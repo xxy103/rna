@@ -10,7 +10,8 @@ key: page-about
 <img src="https://raw.githubusercontent.com/xxy103/rna/gh-pages/_img/xuan.jpg" width="120">
 
 {% highlight javascript %}
-My name is Xuan, I am a Postdoc scholar at Case Western Reserve University biochemistry department, Center for RNA Science and Therapeutics.
+My name is Xuan, I am a Postdoc scholar at Case Western Reserve University biochemistry department,
+Center for RNA Science and Therapeutics.
 This blog collects my reading notes on RNA drugs and therapeutics.
 {% endhighlight %}
 
