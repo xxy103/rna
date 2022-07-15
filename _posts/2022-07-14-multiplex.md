@@ -13,7 +13,7 @@ tags: Tech
 
 #TFs
 
-[Multiplexed profiling facilitates robust m6A quantification at site, gene and sample resolution](https://doi.org/10.1038/s41592-021-01242-z)
+[Simultaneous profiling of multiple chromatin proteins in the same cells](https://doi.org/10.1016/j.molcel.2021.09.019)
 
 [Multifactorial chromatin regulatory landscapes at single cell resolution](https://doi.org/10.1101/2021.07.08.451691)
 
