@@ -8,4 +8,4 @@ tags: LR
 ---
 
 # Nanopore length
-![img1](https://raw.githubusercontent.com/xxy103/rna/gh-pages/_img/clip_analysis.png)![img1](https://raw.githubusercontent.com/xxy103/rna/gh-pages/_img/nanopore_len.png)
+![img1](https://raw.githubusercontent.com/xxy103/rna/gh-pages/_img/nanopore_len.png)

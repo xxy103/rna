@@ -8,4 +8,4 @@ tags: LR
 ---
 
 # DNA repeat elements
-![img1](https://raw.githubusercontent.com/xxy103/rna/gh-pages/_img/clip_analysis.png)![img1](https://raw.githubusercontent.com/xxy103/rna/gh-pages/_img/dna repeat.png)
+![img1](https://raw.githubusercontent.com/xxy103/rna/gh-pages/_img/dna repeat.png)
