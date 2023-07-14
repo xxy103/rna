@@ -16,10 +16,9 @@ This blog collects my reading notes on RNA drugs and therapeutics.
 {% endhighlight %}
 
 ## Useful Links
-- [Jankowsky Lab](http://jankowskylab.org/)
-- [RNA Core](https://rnacore.org)
+- [Graveley Lab](https://graveleylab.cam.uchc.edu/Graveley/)
+- [UConn](https://health.uconn.edu/genetics/)
 - [RNA Society](http://www.rnasociety.org)
-- [CWRU RNA Center](https://rnacenter.org)
 - [RNA Seq Blog](http://www.rna-seqblog.com/)
 - [ENCODE](https://www.encodeproject.org/)
 - [Webinar](https://www.rnasociety.org/rna-collaborative-seminar-series)
