@@ -9,5 +9,5 @@ tags: RNA
 
 # RNA helicase
 ![img1](https://raw.githubusercontent.com/xxy103/rna/gh-pages/_img/helicase.png)
-![review](https://doi.org/10.1038/s41580-023-00628-5)
-![ref2](doi: 10.7554/eLife.16408)
+[review](https://doi.org/10.1038/s41580-023-00628-5)
+[ref2](https://doi.org/10.7554/eLife.16408)
