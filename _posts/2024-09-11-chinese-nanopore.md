@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Nanopore made in chinese company
+title:      Nanopore made by chinese company
 date:       2024-09-11
 author:     Xuan
 catalog:    true
